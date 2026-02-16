@@ -28,8 +28,8 @@ Understanding the economic-carbon relationship is central to ESG analysis, clima
 
 ## 📊 Sample Visualizations
 
-![Global CO2 Trend](images/global_co2_trend.png)
+![Global CO2 Trend](global_co2_trend.png)
 
-![CO2 vs GDP](images/co2_vs_gdp_scatter.png)
+![CO2 vs GDP](co2_vs_gdp_scatter.png)
 
 
